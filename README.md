@@ -1,2 +1,4 @@
 # STOSA
-Source code for the submission of WWW2022 STOSA.
+Source code for the accepted paper in WWW2022.
+
+More details will be released later.
