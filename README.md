@@ -23,10 +23,10 @@ We use the Amazon Review datasets Beauty and some more. The data split is done i
 leave-one-out setting. Make sure you download the datasets from the [link](https://jmcauley.ucsd.edu/data/amazon/).
 
 ### Data Preprocessing
-Use the DataProcessing.py under the data/, and make sure you change the DATASET variable
+Use the DataProcessing_amazon.py under the data/, and make sure you change the DATASET variable
 value to your dataset name, then you run:
 ```
-DataProcessing_amazon.py
+python DataProcessing_amazon.py
 ```
 
 ## Baby Dataset Training and Prediction
