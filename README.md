@@ -1,6 +1,6 @@
 # STOSA
 This is the implementation for the paper:
-TheWebConf'22 You may find it on [Arxiv](https://arxiv.org/abs/2201.06035#:~:text=Sequential%20recommendation%20models%20the%20dynamics,drawn%20a%20lot%20of%20attention.)
+TheWebConf'22. You may find it on [Arxiv](https://arxiv.org/abs/2201.06035#:~:text=Sequential%20recommendation%20models%20the%20dynamics,drawn%20a%20lot%20of%20attention.)
 
 Please cite our paper if you use the code:
 ```bibtex
