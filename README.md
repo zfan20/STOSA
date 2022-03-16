@@ -12,7 +12,7 @@ Please cite our paper if you use the code:
 }
 ```
 
-Another pilot study is DT4SR, please feel free to cite if you find them useful:
+Another pilot study is DT4SR (best short paper nomination by CIKM'21), please feel free to cite if you find them useful:
 ```bibtex
 @inproceedings{fan2021modeling,
   title={Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation},
